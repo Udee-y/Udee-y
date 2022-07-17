@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udee-y
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Frontend Web development 
+- 🌱 I am a Frontend Web developer 
 - 💞️ I’m looking to collaborate on project that involve HTML, CSS and Javascript
 - 📫 How to reach me - email: udeme.mfoninyang@gmail.com
 
